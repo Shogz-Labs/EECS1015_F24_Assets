@@ -15,7 +15,7 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 3. Programming IDE 
    - [Wing IDE](https://wingware.com/downloads): The recommended IDE for complete beginners!
    - [Visual Studio Code](https://code.visualstudio.com/): A decent IDE for people with pre-existing experience. It is fairly self-contained, however, things can begin to get difficult when dealing with large-scale projects sometimes. 
-   - [PyCharm](https://www.jetbrains.com/pycharm/): A comprehensive toolkit with moving parts and cool gizmos designed for large-scale projects, 
+   - [PyCharm](https://www.jetbrains.com/pycharm/): A comprehensive toolkit with moving parts and cool gizmos designed for large-scale projects. 
 4. Documentation & Cheat Sheets
    - TBD
 5. Textbooks & Miscellaneous References
@@ -24,7 +24,13 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 ## Frequently Asked Questions / Troubleshooting
 
 ### Session 1: Friday September 20 
-TBD
+
+| Task | Submission | Resources | 
+| ----- | ----- | ----- |
+| Create an EECS activ8 account | Recorded on eClass (No Submission) | [Account Creation](https://webapp.eecs.yorku.ca/activ8/) |
+| PrarieLearn Sign-Up | Recorded on eClass (No Submission) | Use your [my.yorku.ca email](https://google.info.yorku.ca/) to register with [PrarieLearn](https://ca.prairielearn.com/pl/login) | 
+| Set Up Coding Environment | eClass Submission | [Wing IDE](https://wingware.com/downloads) or [PyCharm](https://www.jetbrains.com/pycharm/)|
+| General Q&A | No Submission | Ask me questions, let me know how you are doing in the course! 😊|
 
 
 

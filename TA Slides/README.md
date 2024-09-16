@@ -1,0 +1,3 @@
+| Slides | Description | 
+| ----- | ----- | 
+| Week 1: Getting Started | In this slide deck, we discuss the introductory content from week 1 and motivate its importance. In particular, we discuss the different paths and research areas of computer science. Then, we go over the weekly deliverables. Lastly, a short Q & A period is held for the students to voice any questions or concerns arising from the assigned deliverables. |
