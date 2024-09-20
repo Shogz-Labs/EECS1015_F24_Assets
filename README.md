@@ -36,7 +36,7 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
 1. Where do I submit Lab 1 (Task 3)? I cannot find it on eClass!
 
-   - You can find the submission box from the **course calendar**. Make sure that you look under **Monday September 23**.  
+   - You can find the submission box from the **course calendar**. Make sure that you look under **Friday, 20 September 2024**.  
 
 
 
