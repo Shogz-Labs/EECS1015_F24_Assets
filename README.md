@@ -32,5 +32,11 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 | Set Up Coding Environment | eClass Submission | [Wing IDE](https://wingware.com/downloads) or [PyCharm](https://www.jetbrains.com/pycharm/)|
 | General Q&A | No Submission | Ask me questions, let me know how you are doing in the course! 😊|
 
+**__Commonly Asked Questions__**
+
+1. Where do I submit Lab 1 (Task 3)? I cannot find it on eClass!
+
+   - You can find the submission box from the **course calendar**. Make sure that you look under **Monday September 23**.  
+
 
 
