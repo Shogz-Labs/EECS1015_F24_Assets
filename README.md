@@ -23,6 +23,8 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
 ## Frequently Asked Questions / Troubleshooting
 
+
+
 ### Session 1: Friday September 20 
 
 | Task | Submission | Resources | 
@@ -38,7 +40,7 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
    - You can find the submission box from the **course calendar**. Make sure that you look under **Friday, 20 September 2024**.  
 
-### Session 2: Friday Septenber 27
+### Session 2: Friday September 27
 
 | Task | Submission |
 | ----- | ----- |
@@ -52,5 +54,4 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
 **Commonly Asked Questions**
 
-1. TBD
-   - TBD
+Will be updated after the lab....
