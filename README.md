@@ -38,5 +38,19 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
    - You can find the submission box from the **course calendar**. Make sure that you look under **Friday, 20 September 2024**.  
 
+### Session 2: Friday Septenber 27
+
+| Task | Submission |
+| ----- | ----- |
+| Task 1: Follow the Steps (/30) | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (/30) | [PrarieLearn](https://ca.prairielearn.com/pl/login) | 
+| Task 3: Implementation (Donuts) (/10) | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Course Grade) (/10) | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (BMI) (/10) | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation (Average of Min and Max) (/10) | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 
+**Commonly Asked Questions**
+
+1. TBD
+   - TBD
