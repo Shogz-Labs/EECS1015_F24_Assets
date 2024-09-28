@@ -54,4 +54,14 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
 **Commonly Asked Questions**
 
-Will be updated after the lab....
+1. For Q1, do I submit all of the components?
+   - No, please only submit the last component to PrarieLearn.
+
+2. How do I convert a data type from one type to another? (e.g., float to integer)
+   - You should refer to functions such as int(...) or float(...). 
+
+3. How do I get the maximum number from Lab 1 and Lab 2? 
+   - You can technically use if-else, however, I encourage you to take a look at the in-built functions that Python supports. 
+
+4. How do I round a float to two decimal places?
+   - Please read the documentation for the round() function. 
