@@ -19,7 +19,8 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 4. Documentation & Cheat Sheets
    - TBD
 5. Textbooks & Miscellaneous References
-   - TBD
+   - [Think Python: How to Think Like a Computer Scientist](https://www.amazon.ca/Think-Python-Like-Computer-Scientist/dp/1491939362)
+   - [Python for Everyone](https://www.py4e.com/)
 
 ## Frequently Asked Questions / Troubleshooting
 
@@ -64,4 +65,14 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
    - You can technically use if-else, however, I encourage you to take a look at the in-built functions that Python supports. 
 
 4. How do I round a float to two decimal places?
-   - Please read the documentation for the round() function. 
+   - Please read the documentation for the round(...) function. 
+
+### Session 3: Friday October 4
+
+| Task | Submission |
+| ----- | ----- | 
+| TBD | TBD |
+
+**Commonly Asked Questions**
+
+To be filled out after the lab....
