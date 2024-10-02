@@ -11,7 +11,7 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
    - [TA Slides](https://github.com/Shogz-Labs/EECS1015_F24_Assets/tree/main/TA%20Slides)
    - [TA Demos](https://github.com/Shogz-Labs/EECS1015_F24_Assets/tree/main/TA%20Demos)
 2. Video Tutorials
-   - TBD
+   - [String methods in Python are easy 〰️](https://www.youtube.com/watch?v=tb6EYiHtcXU)
 3. Programming IDE 
    - [Wing IDE](https://wingware.com/downloads): The recommended IDE for complete beginners!
    - [Visual Studio Code](https://code.visualstudio.com/): A decent IDE for people with pre-existing experience. It is fairly self-contained, however, things can begin to get difficult when dealing with large-scale projects sometimes. 
@@ -69,9 +69,17 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 
 ### Session 3: Friday October 4
 
-| Task | Submission |
-| ----- | ----- | 
-| TBD | TBD |
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: Follow the Steps (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (XOR) (/30) | Think about [logical equivalence](https://www.math.wichita.edu/discrete-book/section-logic-equivalences.html)! | [PrarieLearn](https://ca.prairielearn.com/pl/login) | 
+| Task 3: Implementation (Tickets) (/10) | Break it down. Think about each of the conditions in isolation first. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Phone Number) (/10)  | Break it down. Think about the requirements in isolation first. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (Full Name) (/4) | NA | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation (Last Name) (/8) | Conceptually, it is straightforward, however, you must think about boundary conditions. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 7: Implementation (First Name) (/8) | Conceptually, it is straightforward, however, you must think about boundary conditions. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+If you have any other questions, please feel free to ask me during the scheduled lab session!! 🙌
 
 **Commonly Asked Questions**
 
