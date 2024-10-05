@@ -83,4 +83,15 @@ If you have any other questions, please feel free to ask me during the scheduled
 
 **Commonly Asked Questions**
 
-To be filled out after the lab....
+1. I am struggling with the phone number validation. Can you give me a hint?
+   - Break the problem down. First, check that the String is made up of the proper characters (numbers, brackets, and dashes). 
+   - If this passes, then you need to ensure that the length-requirement is met. Only consider the numerical characters.
+
+### Session 4: Friday October 11
+| Task | Hints | Submission | 
+| ----- | ----- | ----- |
+| TBD | TBD | TBD |
+
+**Commonly Asked Questions**
+
+1. To be filled out after the lab....
