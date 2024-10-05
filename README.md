@@ -88,9 +88,14 @@ If you have any other questions, please feel free to ask me during the scheduled
    - If this passes, then you need to ensure that the length-requirement is met. Only consider the numerical characters.
 
 ### Session 4: Friday October 11
-| Task | Hints | Submission | 
+| Task | Hints | Submission |
 | ----- | ----- | ----- |
-| TBD | TBD | TBD |
+| Task 1: Follow the Steps (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging ($x^2 - y^2$) (/30) | NA | [PrarieLearn](https://ca.prairielearn.com/pl/login) | 
+| Task 3: Implementation (Wheels) (/10) | NA | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Tickets) (/10)  | NA| [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (XOR) (/10) | NA | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation ($x^2 - y^2$) (/10) | Write each assertion one at a time. Consider the ordering of each assertion prior to writing any code. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
 
