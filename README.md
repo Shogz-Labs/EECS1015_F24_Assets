@@ -99,4 +99,39 @@ If you have any other questions, please feel free to ask me during the scheduled
 
 **Commonly Asked Questions**
 
-1. To be filled out after the lab....
+1. I am confused by the method signature. What are argument annotations? How do I specify the return type of a function?
+
+   Please see the example below.
+
+   ```python
+   def check_for_good_vibes(bio: str) -> bool:
+      return True
+   ```
+
+   Essentially, the method signature tells us (1) the data type you expect for each argument, and (2) what data type the function is expected to return. 
+
+   In the above example, the function ```check_for_good_vibes(bio)``` expects one argument with a string data type. It is expected to return a boolean value (True, False).
+
+2. For Task 1, I have copied the code but my doctest is failing! Why is this happening to me!?
+
+   Please make sure that you have copied it exactly. Whitespaces and individual character differences from the existing code will throw errors. Doctest is very sensitive, haha. 
+
+3. I am totally lost for task 6: $x^2 - y^2$... Can you offer me some guidance?
+
+   Read the instructions carefully. Before you start writing any code, consider the order of assertions that makes sense to test for.
+
+   **Do not try to write one single assertion to handle all of the test cases!!!! Break it down into components.**
+
+### Session 5: Friday October 25
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+**Commonly Asked Questions**
+
+TBD
