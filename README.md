@@ -125,12 +125,12 @@ If you have any other questions, please feel free to ask me during the scheduled
 ### Session 5: Friday October 25
 | Task | Hints | Submission |
 | ----- | ----- | ----- |
-| Task 1: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 2: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 3: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 4: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 5: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 6: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 1: Follow the Steps (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation (Store Revenue) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Food Rivals) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (Absolute Value) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation (Even Numbers)(/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
 
