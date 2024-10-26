@@ -21,6 +21,9 @@ For logistical inquiries, please reach out to [eecs1015fall2024@gmail.com](mailt
 5. Textbooks & Miscellaneous References
    - [Think Python: How to Think Like a Computer Scientist](https://www.amazon.ca/Think-Python-Like-Computer-Scientist/dp/1491939362)
    - [Python for Everyone](https://www.py4e.com/)
+   - [Letters to a New Student: Tips to Study Smarter from a Psychologist (Gary W. Wood)](https://ocul-yor.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991036592774005164&context=L&vid=01OCUL_YOR:YOR_DEFAULT&lang=en&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=any,contains,letters%20to%20a%20new%20student&mode=basic)
+   - [LeetCode: Practice Problems](https://leetcode.com/)
+   - [CodingBat: Practice Problems](https://codingbat.com/python)
 
 ## Frequently Asked Questions / Troubleshooting
 
@@ -134,4 +137,46 @@ If you have any other questions, please feel free to ask me during the scheduled
 
 **Commonly Asked Questions**
 
+1. I am having difficulty understanding how to solve Task 2. Why does the code not work properly? How can I fix it?
+
+   Firstly, it is important to understand that the variables **x** and **y** are **global**. This means that the state of the variables are **shared** across all of the functions and main method. 
+
+   Now, given this, take a look at function1 and function2. 
+
+   function1 relies on **y** to instantiate **x**. 
+   
+   This means that we must **initialize** the value of **y** first before we assign **x**. 
+
+2. For Task 4, how should I be decomposing the given function into smaller components? Can you give me some advice?
+
+   Try to think about the code structure in terms of maintainability. Consider if it would be easier to debug code and write unit tests if independent functions are responsible for calculating yours and the opponents scores!
+
+### Session 6: Friday November 1
+
+1. The exam will be in-person, running for **90** minutes.  
+2. You will only be allowed to use the lab computers. This means that you must set up an EECS account. If you haven't done so, please see: [https://webapp.eecs.yorku.ca/activ8/](https://webapp.eecs.yorku.ca/activ8/) 
+3. The structure of the midterm is as follows, covering material from Weeks 1 - 7 (including Functions III):
+   - 10 Multiple-Choice
+   - 2 Coding Questions
+   - 1 Debugging Question
+4. The test is closed-book. Once the test begins, the desktops will enter lab-test mode. You will have limited internet access and all of your files saved in /home/ will be unavailable. 
+
+Good luck, you've got this!! 
+
+<img src = "https://i.redd.it/9rodkt4dgji71.jpg" height="250px" width="250px">
+
+### Session 7: Friday November 8
+
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+**Commonly Asked Questions**
+
 TBD
+
