@@ -171,8 +171,8 @@ Good luck, you've got this!!
 | ----- | ----- | ----- |
 | Task 1: Follow the Steps (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 | Task 2: Debugging (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 3: Implementation (Leibniz) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 4: Implementation (Caesar) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation (Leibniz) (/10) | Make sure that you enforce proper order of operations! | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Caesar) (/10) | Make sure that you account for the shift going past the original end of the alphabet. In ASCII, A - Z is synonymous with 65 - 90 (ASCII). While this can be done in many ways, using a List may make things more clear. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 | Task 5: Implementation (Reverse String) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 | Task 6: Implementation (Remove Vowels) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
