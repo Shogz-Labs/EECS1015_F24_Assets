@@ -177,6 +177,5 @@ Good luck, you've got this!!
 | Task 6: Implementation (Remove Vowels) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
-
 TBD
 
