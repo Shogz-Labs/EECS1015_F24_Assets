@@ -177,5 +177,49 @@ Good luck, you've got this!!
 | Task 6: Implementation (Remove Vowels) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
-TBD
+1. I am having problems with Task 3. Why are my summations negative?
 
+   The problem is likely due to how you are computing the numerator. You need to account for BEDMAS. 
+   For example, see below:
+
+   ```python
+   example_1 = -1 ** 2 
+   example_2 = (-1) ** 2
+
+   print(example_1)
+   # Output: -1 
+
+   print(example_2)
+   # Output: 1
+   ```
+
+
+2. I am having difficulty with Task 2. I don't understand the for-loop part of the program.
+
+   Please refer to the documentation here: [range(....)](https://docs.python.org/3/library/stdtypes.html#typesseq-range)
+
+3. I am having problems with Task 5. I can get the shift to work for some but not all of the characters. How do I deal with the wrap-around constraint?
+
+   You need to use the modulo (%) operator to deal with the wrap-around and prevent overflow. 
+   Modulo returns the remainder after long division. 
+
+   So, if you modulo your preliminary result by 26, it ensures that your index will not fall outside of the supported range.
+
+   Run the following code below to get an intuition of how modulo works:
+   ```python
+   for i in range(1000):
+      print(f'{i} % 26 = {i % 26}')
+   ```
+
+### Session 8: Friday November 15
+
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+**Commonly Asked Questions**
