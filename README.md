@@ -215,11 +215,13 @@ Good luck, you've got this!!
 
 | Task | Hints | Submission |
 | ----- | ----- | ----- |
-| Task 1: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 2: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 3: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 4: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 5: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 6: TBD (/) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 1: Follow the Steps (Averages) (/5) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Fruits) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation (Catalogue) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Intersecting Characters) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (Remove List Item) (/5) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation (Remove List Index) (/5) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 7: Implementation (Remove Tuple Index) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
+TBD....
