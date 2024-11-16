@@ -224,4 +224,20 @@ Good luck, you've got this!!
 | Task 7: Implementation (Remove Tuple Index) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
-TBD....
+
+1. I am having trouble understanding how to implement the intersecting character requirement. Can you give me some hints or direction?
+
+   Please refer to the [set()](https://docs.python.org/3/tutorial/datastructures.html) documentation. Play around with the constructor; try to pass a string into it and see what happens. From there, the rest should follow quite quickly.
+
+### Session 9: Friday November 22
+
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: Follow the Steps (Merged Sort Lists) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Contains Duplicates) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation (Majority Element) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 4: Implementation (Update Gradebook) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 5: Implementation (Return Gradebook) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 6: Implementation (Invert Dictionary) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+**Commonly Asked Questions (TBD)**
