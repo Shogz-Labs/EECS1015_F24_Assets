@@ -8,3 +8,4 @@
 | Week 7: Control Flow | In this slide deck, we go over if-else statements, and loops (for, while). Comprehensive examples are provided and taught using a Socratic method. 
 | Week 8: Collections I | In this slide deck, we review control flow and introduce collection data types. Examples are provided and a summary of the relevant documentation is provided. You are encouraged to experiment with the collections. (e.g., Try using addition and multiplication operations on the collections datatypes!)
 | Week 9: Collections II | In this slide deck, we review collections in more depth. Furthermore, we go over constructors and make hints towards List Comprehension. 
+| Week 10: Collections III, Classes & Objects | In this slide deck, we review nested collections, for-loops, object-oriented programming, and how to read and write to files with relative or absolute paths. It is a lot to digest, but feel free to ask me questions if you need any additional help! :) 

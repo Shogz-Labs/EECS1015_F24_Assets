@@ -4,3 +4,5 @@
 | Modules | These demos cover how to import a module into your program and use the constants or functions. You are encouraged to play with the Jupyter notebook and add your own functions :).
 | Control Flow | These demos cover how to solve LeetCode Problems: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) and [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/). The aim is to become proficient at using if-else statements and loops.
 | Collections | These demos cover how to use collections. Collections contain a multiplicity of robust data types such as lists, sets, tuples, and dictionaries. | [Collections API](https://docs.python.org/3/library/collections.html) 
+| Classes and Objects | This demo covers how to create classes, instantiate objects, and override default Python methods / behaviours. |
+| Files | This demo covers how to read, write, or create files for various purposes while avoiding race conditions. 
