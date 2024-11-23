@@ -240,4 +240,29 @@ Good luck, you've got this!!
 | Task 5: Implementation (Return Gradebook) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 | Task 6: Implementation (Invert Dictionary) (/10) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
-**Commonly Asked Questions (TBD)**
+**Commonly Asked Questions**
+
+1. I am having trouble with the sorting requirement for Task 3 (Majority Element). How can I deal with this?
+
+   Please check that you are not returning collection.sort(). The method sorts the collection in-place and returns None. 
+   You may want to use sorted() instead in the last line of your return statement.
+
+### Session  10: Friday November 29
+
+Part 1 
+
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: Follow the Steps (Separate Numbers) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Highest Correlation) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation ($n \times n$ Tic-Tac-Toe) (/20) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+Part 2
+
+| Task | Hints | Submission |
+| ----- | ----- | ----- |
+| Task 1: Follow the Steps (Rectangle Class) (/50) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Inventory Management) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+
+**Commonly Asked Questions**
+
