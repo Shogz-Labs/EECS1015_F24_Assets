@@ -254,15 +254,15 @@ Part 1
 | Task | Hints | Submission |
 | ----- | ----- | ----- |
 | Task 1: Follow the Steps (Separate Numbers) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 2: Debugging (Highest Correlation) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 3: Implementation ($n \times n$ Tic-Tac-Toe) (/20) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Highest Correlation) (/30) | Fix the syntax errors first; your IDE should highlight where things are incorrect or missing. From there, focus on the logic of each method. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 3: Implementation ($n \times n$ Tic-Tac-Toe) (/20) | **Do not try to tackle all of the methods at once.** Implement each method, write doctest, and test it. Do not move on until each method from top-down works. **It is vital that you understand nested for-loops, boolean expressions, and/or list comprehension.** | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 Part 2
 
 | Task | Hints | Submission |
 | ----- | ----- | ----- |
 | Task 1: Follow the Steps (Rectangle Class) (/50) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
-| Task 2: Debugging (Inventory Management) (/30) | N/A | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
+| Task 2: Debugging (Inventory Management) (/30) | **Carefully read over each provided method prior to fixing any logical errors.** Consider how to implement equality checking among class objects. | [PrarieLearn](https://ca.prairielearn.com/pl/login)| 
 
 **Commonly Asked Questions**
 
