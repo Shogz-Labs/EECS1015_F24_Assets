@@ -1,5 +1,14 @@
 # LE/EECS1015: Introduction to Computer Science and Programming
 
+> [!WARNING]  
+> Per the [academic calendar](https://registrar.yorku.ca/enrol/dates/2024-2025/fall-winter), Fall classes end on **Tuesday December 3, 2024**. As a result, there will be no more lab sessions.
+> 
+> **Note:** This repository will no longer be maintained after **December 15, 2024**. I may post some exam review if some students reach out.
+>
+> **Final Words:** It has been a rewarding experience having had the opportunity to be your TA. Thank you all for being such wonderful students!
+> I wish you all the best in your future courses and endeavours 😊. 
+
+
 Welcome to **LE/EECS 1015 Section A (LAB 04)**! The goal of this repository is to help students familiarize themselves with programming in Python to solve computational problems. You will learn about data types, control structures, and data structures. 
 
 ## Contact Information
@@ -290,6 +299,3 @@ Part 2
    If the product doesn't exist, add it to the inventory. 
 
    **Hint:** Read through the classes and its associated methods. The bulk of the code to solve this problem have been provided to you by the Instructors.
-
-
-
