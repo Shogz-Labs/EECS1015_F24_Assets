@@ -266,3 +266,30 @@ Part 2
 
 **Commonly Asked Questions**
 
+1. My Pearson Correlation code isn't working! The wrong list is being returned... Why is this happening?
+
+   Double check the logic with ```max_correlation```. Use the debugger and step through the code line-by-line. 
+   You can also step into your other methods to make sure that everything is working properly.
+
+2. I am just lost with the $n \times n$ Tic-Tac-Toe problem. How can I check for a winner?
+
+   Break the problem down conceptually. The class emphasizes decomposing a complex problem into manageable components.
+   With that being said, consider writing methods to:
+   
+   - Check if a player has won by securing a **horizontal** row win.
+   - Check if a player has won by securing a **vertical** column win.
+   - Check if a player has won by securing a **diagonal** win condition. Do note that there are two diagonal win-conditions! 
+
+   **Hint:** You will need to have an understanding of nested-loops to complete this task efficiently.
+
+3. My ```stock_product(...)``` method is throwing errors... I don't understand what is expected of me here....
+
+   Firstly, make sure that you have fixed all of the prior syntax and logic errors.
+   
+   The method should increase the quantity of a product in the Inventory if it already exists (e.g., same name, same price).
+   If the product doesn't exist, add it to the inventory. 
+
+   **Hint:** Read through the classes and its associated methods. The bulk of the code to solve this problem have been provided to you by the Instructors.
+
+
+
